@@ -5,4 +5,4 @@
 
 ![Dun Karm Psaila](dunkarm.png)
 
-L-iskop ta' dan il-proġett huwa li jagħmel il-korp tax-xogħol ta' Dun Karm aċċessibbli fuq l-internet.
+L-iskop ta' dan il-proġett huwa li jiddiġitizza u jagħmel aċċessibbli onlajn il-korp tax-xogħol ta' Dun Karm.
